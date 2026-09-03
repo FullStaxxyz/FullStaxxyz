@@ -1,6 +1,6 @@
 # FullStaxx
 
-UK-based developer. Websites and web apps for local businesses. Also ships live online and web3 products.
+UK-based developer. Websites and web apps for businesses. Also ships live online and web3 products.
 
 One person: design, build, launch, email support.
 
