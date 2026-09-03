@@ -57,5 +57,3 @@ Most of my shipping happens in private repos. The contribution graph includes th
 Email [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz). I typically reply within a couple of hours. Also reachable on [Telegram](https://t.me/fullstaxx) (@fullstaxx).
 
 More context: [fullstaxx.xyz](https://www.fullstaxx.xyz)
-
-![FullStaxx GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStaxxyz&show_icons=true&count_private=true&include_all_commits=true)
