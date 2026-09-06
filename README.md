@@ -18,7 +18,7 @@ A 1–3 page website or landing page, bought and paid for upfront. Work starts a
 
 Included: domain, 1–3 pages, mobile-friendly, a contact path, launch, one revision, and a short post-launch fix window. Not included: custom apps, auth/dashboards/invoicing, web3, extra pages, or copywriting.
 
-[Buy on fullstaxx.xyz](https://www.fullstaxx.xyz#buy)
+[Buy on fullstaxx.xyz](https://www.fullstaxx.xyz/buy)
 
 ---
 
