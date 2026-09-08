@@ -1,4 +1,4 @@
-# FullStaxx
+# fullstaxx
 
 UK-based developer. Websites and apps for businesses. Also ships live online and web3 products.
 
@@ -7,18 +7,6 @@ One person: design, build, launch, email support.
 **Available for new projects** · Remote · Worldwide
 
 [fullstaxx.xyz](https://www.fullstaxx.xyz) · [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz) · [Telegram](https://t.me/fullstaxx) · [Facebook](https://www.facebook.com/profile.php?id=61592069229269)
-
----
-
-## Standard site package
-
-A 1–3 page website or landing page, bought and paid for upfront. Work starts after payment clears.
-
-**£199** · settled in USDC (260 USDC)
-
-Included: domain, 1–3 pages, mobile-friendly, a contact path, launch, one revision, and a short post-launch fix window. Not included: custom apps, auth/dashboards/invoicing, web3, extra pages, or copywriting.
-
-[Buy on fullstaxx.xyz](https://www.fullstaxx.xyz/buy)
 
 ---
 
