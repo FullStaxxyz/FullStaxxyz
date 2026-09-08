@@ -26,8 +26,8 @@ Client work stays private. Public products are linked below.
 | Project | What it is | Live |
 | --- | --- | --- |
 | Pet-care business app | Clients, visits, recurring invoices, PDF bills (private client) | Case study on [fullstaxx.xyz](https://www.fullstaxx.xyz) |
-| [KOTH](https://koth.host) | Solana prediction market with markets, staking, leaderboard, PVP | [koth.host](https://koth.host) |
 | [Jungle Factory](https://junglefactory.xyz) | Token launchpad on ApeChain | [junglefactory.xyz](https://junglefactory.xyz) |
+| [KOTH](https://koth.host) | Solana prediction market with markets, staking, leaderboard, PVP | [koth.host](https://koth.host) |
 | [W.S. Smith](https://www.wallst.fun) | Solana trading-agent dashboard with a public journal | [wallst.fun](https://www.wallst.fun) |
 | [Bobby](https://bobby.dog) | Solana memecoin site on pump.fun | [bobby.dog](https://bobby.dog) |
 
