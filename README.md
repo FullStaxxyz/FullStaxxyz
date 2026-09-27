@@ -6,7 +6,7 @@ One person: design, build, launch, email support.
 
 **Available for new projects** · Remote · Worldwide
 
-[fullstaxx.xyz](https://www.fullstaxx.xyz) · [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz) · [Telegram](https://t.me/fullstaxx) · [Facebook](https://www.facebook.com/profile.php?id=61592069229269)
+[fullstaxx.xyz](https://www.fullstaxx.xyz) · [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz) · [Telegram](https://t.me/fullstaxx)
 
 ---
 
@@ -55,6 +55,6 @@ Most of my shipping happens in private repos. The contribution graph includes th
 
 ## Contact
 
-Email [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz). I typically reply within a couple of hours. Also reachable on [Telegram](https://t.me/fullstaxx) (@fullstaxx) and [Facebook](https://www.facebook.com/profile.php?id=61592069229269).
+Email [dev@fullstaxx.xyz](mailto:dev@fullstaxx.xyz). I typically reply within a couple of hours. Also reachable on [Telegram](https://t.me/fullstaxx) (@fullstaxx).
 
 More context: [fullstaxx.xyz](https://www.fullstaxx.xyz)
